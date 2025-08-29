@@ -70,7 +70,7 @@ MiscFeature_Shed,nominal_categorical
 MiscFeature_TenC,nominal_categorical
 SaleType,target_encoded
 SaleCondition,target_encoded
-IsRemodeled_1,nominal_categorical
+IsRemodeled_1.0,nominal_categorical
 SaleSeason_Spring,nominal_categorical
 SaleSeason_Summer,nominal_categorical
 SaleSeason_Winter,nominal_categorical
