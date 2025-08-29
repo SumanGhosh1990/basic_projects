@@ -1,0 +1,37 @@
+0
+MSZoning_FV
+MSZoning_RH
+MSZoning_RL
+MSZoning_RM
+Street_Pave
+Alley_Not available
+Alley_Pave
+LotShape_IR2
+LotShape_IR3
+LotShape_Reg
+LandContour_HLS
+LandContour_Low
+LandContour_Lvl
+Utilities_NoSeWa
+LotConfig_CulDSac
+LotConfig_FR2
+LotConfig_FR3
+LotConfig_Inside
+LandSlope_Mod
+LandSlope_Sev
+BldgType_2fmCon
+BldgType_Duplex
+BldgType_Twnhs
+BldgType_TwnhsE
+MasVnrType_BrkFace
+MasVnrType_Not available
+MasVnrType_Stone
+CentralAir_Y
+Electrical_FuseF
+Electrical_FuseP
+Electrical_Not available
+Electrical_SBrkr
+MiscFeature_Not available
+MiscFeature_Othr
+MiscFeature_Shed
+MiscFeature_TenC
